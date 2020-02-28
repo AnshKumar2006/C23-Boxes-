@@ -1,2 +1,1 @@
-# C23-Boxes-
-Boxes
+# Box Class
